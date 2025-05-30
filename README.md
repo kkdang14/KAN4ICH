@@ -43,10 +43,6 @@ This project involves training, evaluating, and optimizing KAN for image classif
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run training**
-   ```bash
-   python train.py
-   ```
 
 ---
 
