@@ -3,7 +3,7 @@
 Empowering Image Classification for Vietnamese Intangible Cultural Heritage  
 _Exploring Kolmogorov Arnold Networks (KAN) for advanced AI research_
 
-!https://yellow-cdn.veclightyear.com/26b7c49c/e147f1d3-a0f2-460a-91c5-5285a87510d5.png
+![Image](https://yellow-cdn.veclightyear.com/26b7c49c/e147f1d3-a0f2-460a-91c5-5285a87510d5.png)
 
 ---
 
